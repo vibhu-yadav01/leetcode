@@ -17,6 +17,7 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vibhu-yadav01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,8 +80,18 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
