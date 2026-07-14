@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vibhu-yadav01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0909-snakes-and-ladders](https://github.com/vibhu-yadav01/leetcode/tree/master/0909-snakes-and-ladders) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vibhu-yadav01/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0909-snakes-and-ladders](https://github.com/vibhu-yadav01/leetcode/tree/master/0909-snakes-and-ladders) |
 | [2685-count-the-number-of-complete-components](https://github.com/vibhu-yadav01/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -95,6 +97,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0909-snakes-and-ladders](https://github.com/vibhu-yadav01/leetcode/tree/master/0909-snakes-and-ladders) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
