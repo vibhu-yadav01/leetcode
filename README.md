@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vibhu-yadav01/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vibhu-yadav01/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vibhu-yadav01/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vibhu-yadav01/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2685-count-the-number-of-complete-components](https://github.com/vibhu-yadav01/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -122,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vibhu-yadav01/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -149,4 +152,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vibhu-yadav01/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vibhu-yadav01/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
