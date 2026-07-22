@@ -20,6 +20,7 @@
 | ------- |
 | [0018-4sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0018-4sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vibhu-yadav01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/vibhu-yadav01/leetcode/tree/master/0118-pascals-triangle) |
 | [0909-snakes-and-ladders](https://github.com/vibhu-yadav01/leetcode/tree/master/0909-snakes-and-ladders) |
 | [1260-shift-2d-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -142,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vibhu-yadav01/leetcode/tree/master/0118-pascals-triangle) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
