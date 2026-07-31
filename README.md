@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vibhu-yadav01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/vibhu-yadav01/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vibhu-yadav01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -160,12 +162,14 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vibhu-yadav01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0018-4sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vibhu-yadav01/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -192,4 +196,8 @@
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
