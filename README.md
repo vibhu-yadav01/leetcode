@@ -25,6 +25,7 @@
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/vibhu-yadav01/leetcode/tree/master/0909-snakes-and-ladders) |
+| [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -169,6 +171,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -176,6 +179,7 @@
 | [0118-pascals-triangle](https://github.com/vibhu-yadav01/leetcode/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vibhu-yadav01/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -233,8 +237,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/vibhu-yadav01/leetcode/tree/master/0433-minimum-genetic-mutation) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
