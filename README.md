@@ -29,6 +29,7 @@
 | [1260-shift-2d-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vibhu-yadav01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhu-yadav01/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -163,6 +164,7 @@
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vibhu-yadav01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vibhu-yadav01/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -243,6 +246,7 @@
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
@@ -254,6 +258,7 @@
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -262,10 +267,12 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -279,4 +286,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibhu-yadav01/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
