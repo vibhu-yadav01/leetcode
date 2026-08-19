@@ -27,6 +27,7 @@
 | [0909-snakes-and-ladders](https://github.com/vibhu-yadav01/leetcode/tree/master/0909-snakes-and-ladders) |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/vibhu-yadav01/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
@@ -47,6 +48,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vibhu-yadav01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/vibhu-yadav01/leetcode/tree/master/0133-clone-graph) |
 | [0433-minimum-genetic-mutation](https://github.com/vibhu-yadav01/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [1386-cinema-seat-allocation](https://github.com/vibhu-yadav01/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vibhu-yadav01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhu-yadav01/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vibhu-yadav01/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/vibhu-yadav01/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -205,6 +208,7 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vibhu-yadav01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/vibhu-yadav01/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
