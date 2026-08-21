@@ -22,6 +22,7 @@
 | [0018-4sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0018-4sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vibhu-yadav01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/vibhu-yadav01/leetcode/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/vibhu-yadav01/leetcode/tree/master/0130-surrounded-regions) |
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/vibhu-yadav01/leetcode/tree/master/0909-snakes-and-ladders) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vibhu-yadav01/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/vibhu-yadav01/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/vibhu-yadav01/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vibhu-yadav01/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vibhu-yadav01/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/vibhu-yadav01/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/vibhu-yadav01/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vibhu-yadav01/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0433-minimum-genetic-mutation](https://github.com/vibhu-yadav01/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -136,6 +139,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vibhu-yadav01/leetcode/tree/master/0130-surrounded-regions) |
 | [2685-count-the-number-of-complete-components](https://github.com/vibhu-yadav01/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -147,6 +151,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vibhu-yadav01/leetcode/tree/master/0130-surrounded-regions) |
 | [0909-snakes-and-ladders](https://github.com/vibhu-yadav01/leetcode/tree/master/0909-snakes-and-ladders) |
 | [1260-shift-2d-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vibhu-yadav01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
