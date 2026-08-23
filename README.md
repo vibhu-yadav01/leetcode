@@ -174,6 +174,7 @@
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/vibhu-yadav01/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -191,6 +192,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/vibhu-yadav01/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/vibhu-yadav01/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vibhu-yadav01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/vibhu-yadav01/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vibhu-yadav01/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -216,6 +218,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vibhu-yadav01/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/vibhu-yadav01/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/vibhu-yadav01/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vibhu-yadav01/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -272,6 +275,7 @@
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/vibhu-yadav01/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
 ## Bidirectional Search
 |  |
