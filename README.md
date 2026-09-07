@@ -188,6 +188,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/vibhu-yadav01/leetcode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/vibhu-yadav01/leetcode/tree/master/1872-stone-game-viii) |
