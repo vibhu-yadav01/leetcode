@@ -80,6 +80,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/vibhu-yadav01/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibhu-yadav01/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vibhu-yadav01/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vibhu-yadav01/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/vibhu-yadav01/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibhu-yadav01/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vibhu-yadav01/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vibhu-yadav01/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/vibhu-yadav01/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vibhu-yadav01/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vibhu-yadav01/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vibhu-yadav01/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/vibhu-yadav01/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/vibhu-yadav01/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
