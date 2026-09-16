@@ -194,6 +194,7 @@
 | [0507-perfect-number](https://github.com/vibhu-yadav01/leetcode/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vibhu-yadav01/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vibhu-yadav01/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/vibhu-yadav01/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vibhu-yadav01/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vibhu-yadav01/leetcode/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -238,6 +240,7 @@
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vibhu-yadav01/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vibhu-yadav01/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vibhu-yadav01/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vibhu-yadav01/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vibhu-yadav01/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -344,4 +347,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/vibhu-yadav01/leetcode/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vibhu-yadav01/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
