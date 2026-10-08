@@ -21,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/vibhu-yadav01/leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vibhu-yadav01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/vibhu-yadav01/leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/vibhu-yadav01/leetcode/tree/master/0130-surrounded-regions) |
@@ -70,6 +71,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vibhu-yadav01/leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vibhu-yadav01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Tree
 |  |
@@ -247,6 +249,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/vibhu-yadav01/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vibhu-yadav01/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/vibhu-yadav01/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/vibhu-yadav01/leetcode/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/vibhu-yadav01/leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/vibhu-yadav01/leetcode/tree/master/0678-valid-parenthesis-string) |
