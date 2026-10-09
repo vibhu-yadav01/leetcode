@@ -10,6 +10,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/vibhu-yadav01/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/vibhu-yadav01/leetcode/tree/master/0086-partition-list) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/vibhu-yadav01/leetcode/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vibhu-yadav01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -283,6 +285,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vibhu-yadav01/leetcode/tree/master/0018-4sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vibhu-yadav01/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhu-yadav01/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
